@@ -1,0 +1,13 @@
+*{
+    margin: 0px;
+    font-family: font-family: 'Fira Sans', sans-serif;
+}
+nav{
+    display: flex;
+}
+nav ul{
+    display: flex;
+}
+nav li{
+    list-style: none;
+}
