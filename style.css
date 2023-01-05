@@ -94,3 +94,29 @@ main{
     font-weight: 700px;
     font-size: 20px;
 }
+.what{
+    margin-top: 150px;
+    margin-bottom: ;
+}
+.tile{
+    text-align: center;
+    margin-bottom: 70px;
+}
+.skills{
+    background: #ffffff;
+    box-shadow: 0px 6px 50px rgba(0, 0, 0, 0.66);
+    border-radius: 5px;
+}
+.skills-container{
+    display: flex;
+    gap: 20px;
+}
+.skill-title{
+    text-align: center;
+    font-weight: 700px;
+    font-size: 20px;
+    margin-top: 20px;
+}
+.skill-description{
+    color: #757575;
+}
